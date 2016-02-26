@@ -13,7 +13,7 @@ Project Description:
 > 
 > https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 > 
-> Create one R script called run_analysis.R that does the following: 
+> The assignment is to create one R script called run_analysis.R that does the following: 
 > 
 > 1. Merges the training and the test sets to create one data set.
 > 2. Extracts only the measurements on the mean and standard deviation for each measurement.
@@ -27,6 +27,6 @@ Steps to reproduce this project
 -------------------------------
 
 1. Open the R script `run_analysis.r` using a text editor.
-2. Change the parameter of the `setwd` function call to the working directory/folder (i.e., the folder where these the R script file is saved).
+2. Change the parameter of the `setwd` function call to the working directory/folder (i.e., the folder where these the R script file and project data are saved).
 3. Run the R script `run_analysis.r`.
 
